@@ -1,0 +1,10 @@
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\bin\Debug\netcoreapp2.0\ChatConsole.deps.json
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\bin\Debug\netcoreapp2.0\ChatConsole.runtimeconfig.json
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\bin\Debug\netcoreapp2.0\ChatConsole.runtimeconfig.dev.json
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\bin\Debug\netcoreapp2.0\ChatConsole.dll
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\bin\Debug\netcoreapp2.0\ChatConsole.pdb
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\obj\Debug\netcoreapp2.0\ChatConsole.csproj.CoreCompileInputs.cache
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\obj\Debug\netcoreapp2.0\ChatConsole.AssemblyInfoInputs.cache
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\obj\Debug\netcoreapp2.0\ChatConsole.AssemblyInfo.cs
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\obj\Debug\netcoreapp2.0\ChatConsole.dll
+X:\Users\shaoh\source\repos\ChatConsole\ChatConsole\obj\Debug\netcoreapp2.0\ChatConsole.pdb
